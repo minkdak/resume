@@ -20,10 +20,11 @@ resume_contact_email:           "kimmsup91@naver.com"
 resume_contact_telephone:       "010-3377-6687"
 resume_contact_address:         "부평구 부평1동, 인천광역시"
 
-resume_header_contact_info:     "부평구 부평1동, 인천광역시 • kimmsup91@naver.com" # • 555-7334
+resume_header_contact_info:     "kimmsup91@naver.com" # 부평구 부평1동, 인천광역시 •  • 555-7334
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>반갑습니다. 현재 2년차 웹 개발자로 일하고 있는 김민섭입니다.</p>
+                      <p>언제나 제 자리에 머무르지 않고 끊임없이 발전하는 백엔드 개발자가 되기를 지향하고 있습니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
